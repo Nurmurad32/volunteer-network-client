@@ -1,0 +1,41 @@
+.register-bg{
+    background-color: #F8FAFC;
+}
+.reg-img{
+    padding-top: 44px;
+}
+.reg-img img{
+    
+    width: 202.81px;
+    height: 60px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+.form{
+    margin: 0 auto;
+    border: 1px solid #ABABAB;
+    width: 570px;
+    /* height: 591px; */
+    height: auto;
+    padding: 30px 60px;
+    background-color: white;
+    margin-top: 25px;
+    border-radius: 5px;
+}
+.form h2{
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 35px;
+}
+.form input{
+    display: block;
+    width: 462px;
+    height: 32px;
+    border: none;
+    border-bottom: 1px solid #ABABAB;
+    margin-bottom: 30px;
+}
+.errors{
+    color: red;
+}

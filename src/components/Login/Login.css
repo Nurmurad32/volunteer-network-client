@@ -1,0 +1,33 @@
+.login-bg{
+    background-color: #F8FAFC;
+    height: 700px;
+}
+
+.login-text{
+    text-align: center;
+    height: 457px;
+    width: 570px;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 67px;
+    /* margin-bottom: 271px; */
+}
+.login-google{
+    display: flex;
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: center;
+    border: 1px solid #ABABAB;
+    border-radius: 50px;
+    height: 51px;
+    padding: 10px;
+    width: 457px;
+    margin-bottom: 15px;
+}
+.login-google:hover{
+    border: 1px solid #007bff;
+    cursor: pointer;
+}
+.login-google p{
+    margin: 0 auto;
+}

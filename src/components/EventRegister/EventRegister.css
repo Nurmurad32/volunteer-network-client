@@ -1,0 +1,15 @@
+.event-reg-bg{
+    background-color:#F8FAFC;
+    min-height: 500px;
+    max-height: auto;
+}
+.register-item{
+    margin: 0 auto;
+    height: 219px;
+    width: 570px;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    margin-top: 73px;
+}

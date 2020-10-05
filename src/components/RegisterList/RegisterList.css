@@ -1,0 +1,39 @@
+.admin-area{
+    margin: 24px 52px;
+}
+.register-list-bg{
+    background-color: #F8FAFC;
+    min-height: 500px;
+    max-height: auto;
+}
+.admin-logo-text{
+    display: flex;
+}
+.admin-logo{
+    width: 202px;
+    height: 60px;
+}
+.admin-column{
+    display: flex;
+    margin-top: 25px;
+}
+.admin-column img{
+    height: 17px;
+    width: 17px;
+    margin: 5px 10px;
+}
+.table{
+    margin-top: 35px;
+    border: 1px solid white;
+    background-color: white;
+    table-layout: auto;
+    text-align: center;
+}
+.table-row{
+    background-color: #F5F6FA;
+    color: #686868;
+    font-size: 16px;
+}
+.table tr{
+    padding: 5px;
+}
