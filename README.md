@@ -1,5 +1,28 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Website Link: [Volunteer Network](https://volunteer-network-2ef49.web.app/).
+
+## Used Technologies:
+1. HTML
+2. CSS
+3. React js
+4. React Bootstrap
+5. Javascript
+6. Firebase
+7. MongoDB
+8. ExpressJS
+9. nodejs
+
+## Dependencies:
+1. bootstrap 
+2. firebase
+3. react
+4. react-bootstrap
+5. react-dom
+6. react-hook-form
+7. react-router-dom
+8. react-scripts
+
 ## Available Scripts
 
 In the project directory, you can run:
