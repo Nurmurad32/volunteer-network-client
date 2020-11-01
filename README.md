@@ -1,6 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Website Link:** [Volunteer Network](https://volunteer-network-2ef49.web.app/).
+**Server Site Github Link:** [Volunteer Network](https://github.com/Nurmurad32/volunteer-network-server).
 
-Website Link: [Volunteer Network](https://volunteer-network-2ef49.web.app/).
+## Used Technologies:
+•Different Link for user and admin Panel </br>
+• Adding Event Option for an admin </br>
+• User information are saved in both user and admin control
+panel. </br>
+• Any User Event participation can be removed by admin </br>
+• Fully Responsive with sign-in/up feature
 
 ## Used Technologies:
 1. HTML
